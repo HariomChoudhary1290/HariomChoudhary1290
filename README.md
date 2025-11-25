@@ -1,42 +1,30 @@
-<!-- Profile Banner with Sparkles, Bubbles & Running Image -->
+<!-- Bubbles Effect -->
 <p align="center">
-  <!-- Left: Sparkle (SVG data URI) -->
-  <img alt="sparkle" src="data:image/svg+xml;utf8,
-  %3Csvg xmlns='http://www.w3.org/2000/svg' width='80' height='80' viewBox='0 0 24 24'%3E
-    %3Cdefs%3E%3ClinearGradient id='g' x1='0' x2='1'%3E%3Cstop offset='0' stop-color='%23fff176'/%3E%3Cstop offset='1' stop-color='%23ffd54f'/%3E%3C/linearGradient%3E%3C/defs%3E
-    %3Cg%3E
-      %3Cpolygon points='12,2 13.5,8 20,9 14.5,13 16,20 12,16 8,20 9.5,13 4,9 10.5,8' fill='url(%23g)'%3E
-        %3CanimateTransform attributeName='transform' attributeType='XML' type='scale' from='0.8' to='1.08' dur='1s' repeatCount='indefinite' begin='0s'/%3E
-        %3Canimate attributeName='opacity' values='0.4;1;0.4' dur='1.2s' repeatCount='indefinite'/%3E
-      %3C/polygon%3E
-    %3C/g%3E
-  %3C/svg%3E" width="60" style="vertical-align: middle; margin-right: 12px;" />
-
-  <!-- Center: User Photo (local path you provided) -->
-  <img alt="Hariom Photo" src="sandbox:/mnt/data/c142ba63-d78d-4fb6-b261-07fbbcd2aaa4.jpeg" width="220" style="border-radius: 50%; box-shadow: 0 8px 24px rgba(0,0,0,0.25); vertical-align: middle;" />
-
-  <!-- Right: Bubbles (SVG data URI) -->
-  <img alt="bubbles" src="data:image/svg+xml;utf8,
-  %3Csvg xmlns='http://www.w3.org/2000/svg' width='120' height='80' viewBox='0 0 120 80'%3E
-    %3Ccircle cx='20' cy='60' r='6' fill='%23BBDEFB'%3E%3Canimate attributeName='cy' dur='3s' values='70;10;70' repeatCount='indefinite'/%3E%3C/curve%3E%3C/circle%3E
-    %3Ccircle cx='50' cy='60' r='9' fill='%2390CAF9'%3E%3Canimate attributeName='cy' dur='4s' values='75;5;75' repeatCount='indefinite'/%3E%3C/circle%3E
-    %3Ccircle cx='90' cy='60' r='5' fill='%23E3F2FD'%3E%3Canimate attributeName='cy' dur='2.6s' values='70;15;70' repeatCount='indefinite'/%3E%3C/circle%3E
-  %3C/svg%3E" width="90" style="vertical-align: middle; margin-left: 12px;" />
-
-  <!-- Running image (small animated GIF) -->
-  <br/>
-  <img alt="running" src="https://media.giphy.com/media/xT0GqeSlGSRQutC9s4/giphy.gif" width="260" style="margin-top:12px; border-radius: 12px;" />
+  <img src="https://i.gifer.com/76YS.gif" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I’m <b>Hariom Choudhary (Hello Harry)</b></h1>
-
+<!-- Scrolling Name Heading -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kenangundogan/devops-icon/master/devops.png" width="180" />
+  <marquee behavior="alternate" scrollamount="7">
+    <h1>👋 Hi, I’m <b>Hariom Choudhary</b></h1>
+  </marquee>
+</p>
+
+<!-- Profile Photo (Rounded Frame) -->
+<p align="center">
+  <img src="sandbox:/mnt/data/e32734b7-ff0e-48f7-888f-08601d05ed46.png" 
+       width="230" 
+       style="border-radius: 50%; border: 4px solid #4CAF50;" />
+</p>
+
+<!-- Sparkle Divider -->
+<p align="center">
+  <img src="https://i.gifer.com/7VE.gif" width="180" />
 </p>
 
 <p align="center">
-I believe Cloud & DevOps is for EVERYONE — yes, YOU TOO!  
-Join me on my journey 🚀
+<b>I believe Cloud & DevOps is for EVERYONE — yes, YOU TOO!  
+Join me on my journey 🚀</b>
 </p>
 
 ---
@@ -46,8 +34,8 @@ Join me on my journey 🚀
 - 💼 **DevOps Engineer**  
 - ☁️ Passionate about **Cloud, Automation, CI/CD, Linux, Docker, Kubernetes, Terraform**  
 - 🔧 Love solving real-world problems & building scalable systems  
-- 🎓 I help beginners start their DevOps journey the right way  
-- 📚 Always learning, always improving
+- 🎓 Helping beginners start their DevOps career  
+- 📚 Always learning, always improving  
 
 ---
 
@@ -73,6 +61,11 @@ Join me on my journey 🚀
 
 ---
 
+<!-- Sparkle -->
+<p align="center">
+  <img src="https://i.gifer.com/fy5.gif" width="150" />
+</p>
+
 ## 🔗 Social Badges
 
 <p align="center">
@@ -87,11 +80,6 @@ Join me on my journey 🚀
 
 ---
 
-## ⭐ Featured Section (Optional)
-Add your projects, training programs, YouTube videos, or achievements here later.
-
----
-
 <p align="center">
-Made with ❤️ by <b>Hello Harry</b>
+Made with ❤️ by <b>Hariom Choudhary</b>
 </p>
