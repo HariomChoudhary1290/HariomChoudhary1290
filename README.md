@@ -1,6 +1,7 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="sandbox:/mnt/data/c142ba63-d78d-4fb6-b261-07fbbcd2aaa4.jpeg" width="230" style="border-radius: 15px;" />
+  <img src="![WhatsApp Image 2025-05-29 at 1 53 52 PM](https://github.com/user-attachments/assets/f32aec6e-29e8-4f7f-99c2-d1dc50ac1b46)
+" />
 </p>
 
 <h1 align="center">👋 Hi, I’m <b>Hariom Choudhary (Hello Harry)</b></h1>
