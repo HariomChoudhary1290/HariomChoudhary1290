@@ -1,6 +1,7 @@
 
 <a href="#" target="_blank">
-  <img src="https://user-images.githubusercontent.com/624760/197235663-1a08eef9-4f9f-4986-8177-c32329a65f3e.jpeg" />
+  <img src="https://![WhatsApp Image 2025-11-11 at 3 19 11 PM](https://github.com/user-attachments/assets/20bdb3ac-b8f4-4550-bd2b-6ac9dfca0025)
+" />
 </a>
 
 <p align="center">
