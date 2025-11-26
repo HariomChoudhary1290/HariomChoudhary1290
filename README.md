@@ -4,7 +4,7 @@
 " />
 </p>
 
-<h1 align="center">👋 Hi, I’m <b>Hariom Choudhary (Hello Harry)</b></h1>
+<h1 align="center">👋 Hi, I’m <b>Hariom Choudhary (Harry)</b></h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/kenangundogan/devops-icon/master/devops.png" width="180" />
@@ -30,7 +30,7 @@ Join me on my journey 🚀
 ## 📞 Contact Details
 
 - 📩 **Email:** hariom.choudhary015@gmail.com  
-- 📱 **Phone:** +(91)9584581290  
+- 📱 **Phone:** +(91) 9584581290  
 - 🔗 **LinkedIn:** [linkedin.com/in/hariom-choudhary-868823322](https://linkedin.com/in/hariom-choudhary-868823322)
 
 ---
@@ -69,5 +69,5 @@ Add your projects, training programs, YouTube videos, or achievements here later
 ---
 
 <p align="center">
-Made with ❤️ by <b>Hello Harry</b>
+Created By ❤️ From <b> Hariom Choudhary</b>
 </p>
