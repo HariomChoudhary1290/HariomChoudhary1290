@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="![WhatsApp Image 2025-05-29 at 1 53 52 PM](https://github.com/user-attachments/assets/f32aec6e-29e8-4f7f-99c2-d1dc50ac1b46)
+  <img src="![[WhatsApp Image 2025-05-29 at 1 53 52 PM](https://github.com/user-attachments/assets/f32aec6e-29e8-4f7f-99c2-d1dc50ac1b46](https://www.canva.com/design/DAG5yvvlE_A/I-Wu72W3QSyIzqxmzMsHJQ/edit))
 " />
 </p>
 
