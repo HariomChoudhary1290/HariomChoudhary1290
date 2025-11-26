@@ -7,7 +7,8 @@
 <h1 align="center">👋 Hi, I’m <b>Hariom Choudhary (Harry)</b></h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kenangundogan/devops-icon/master/devops.png" width="180" />
+  <img src="![images](https://github.com/user-attachments/assets/e20600a2-5694-4131-bead-eb2f26c9a8a2)
+" width="180" />
 </p>
 
 <p align="center">
