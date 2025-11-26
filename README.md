@@ -30,7 +30,7 @@ Join me on my journey 🚀
 ## 📞 Contact Details
 
 - 📩 **Email:** hariom.choudhary015@gmail.com  
-- 📱 **Phone:** 9584581290  
+- 📱 **Phone:** +(91)9584581290  
 - 🔗 **LinkedIn:** [linkedin.com/in/hariom-choudhary-868823322](https://linkedin.com/in/hariom-choudhary-868823322)
 
 ---
