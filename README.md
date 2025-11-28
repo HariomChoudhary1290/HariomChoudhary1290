@@ -5,9 +5,6 @@
 
 <h1 align="center">👋 Hi, I’m <b>Hariom Choudhary (Harry)</b></h1>
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/10097042-5440-4cd7-9754-b7eb45590692" width="350" />
-</p>
 
 <p align="center">
 I believe Cloud & DevOps is for EVERYONE — yes, YOU TOO!  
