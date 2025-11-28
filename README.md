@@ -10,10 +10,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/e20600a2-5694-4131-bead-eb2f26c9a8a2" width="180" />
-</p>
-
-<p align="center">
 I believe Cloud & DevOps is for EVERYONE — yes, YOU TOO!  
 Join me on my journey 🚀
 </p>
