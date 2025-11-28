@@ -3,8 +3,10 @@
   <img src="https://s12.gifyu.com/images/b9tFc.gif" />
 </p>
 
-<h1 align="center">👋 Hi, I’m <b>Hariom Choudhary (Harry)</b></h1>
-
+<!-- Animated Heading -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00A8FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Hariom+Choudhary+(Harry)" />
+</h1>
 
 <p align="center">
 I believe Cloud & DevOps is for EVERYONE — yes, YOU TOO!  
@@ -27,7 +29,7 @@ Join me on my journey 🚀
 
 - 📩 **Email:** hariom.choudhary015@gmail.com  
 - 📱 **Phone:** +(91) 9584581290  
-- 🔗 **LinkedIn:** [linkedin.com/in/hariom-choudhary-868823322](https://linkedin.com/in/hariom-choudhary-868823322)
+- 🔗 **LinkedIn:** https://linkedin.com/in/hariom-choudhary-868823322
 
 ---
 
