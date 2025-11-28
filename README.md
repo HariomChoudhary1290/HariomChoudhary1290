@@ -1,70 +1,24 @@
-<!-- Profile Banner -->
-<p align="center">
-  <img src="https://s12.gifyu.com/images/b9tFc.gif" />
-</p>
+<h1 align="center">
+  <span class="typing-animation">👋 Hi, I'm <b>Hariom Choudhary (Harry)</b></span>
+</h1>
 
-<h1 align="center">👋 Hi, I’m <b>Hariom Choudhary (Harry)</b></h1>
+<style>
+.typing-animation {
+  display: inline-block;
+  font-weight: bold;
+  border-right: 3px solid #ffffff;
+  white-space: nowrap;
+  overflow: hidden;
+  width: 0;
+  animation: typing 3s steps(40, end) forwards, blink .7s infinite;
+}
 
+@keyframes typing {
+  from { width: 0 }
+  to { width: 380px }
+}
 
-<p align="center">
-I believe Cloud & DevOps is for EVERYONE — yes, YOU TOO!  
-Join me on my journey 🚀
-</p>
-
----
-
-## 👨‍💻 About Me
-
-- 💼 **DevOps Engineer**
-- ☁️ Passionate about **Cloud, Automation, CI/CD, Linux, Docker, Kubernetes, Terraform**
-- 🔧 Love solving real-world problems & building scalable systems
-- 🎓 I help beginners start their DevOps journey the right way  
-- 📚 Always learning, always improving
-
----
-
-## 📞 Contact Details
-
-- 📩 **Email:** hariom.choudhary015@gmail.com  
-- 📱 **Phone:** +(91) 9584581290  
-- 🔗 **LinkedIn:** [linkedin.com/in/hariom-choudhary-868823322](https://linkedin.com/in/hariom-choudhary-868823322)
-
----
-
-## ⚙️ DevOps Skills
-
-### 🚀 Tools & Technologies
-
-- **CI/CD:** GitHub Actions, Jenkins  
-- **Containers:** Docker, Docker Compose  
-- **Orchestration:** Kubernetes  
-- **Infrastructure as Code:** Terraform, Ansible  
-- **Cloud:** AWS (EC2, IAM, S3, VPC, Lambda)  
-- **Monitoring:** Prometheus, Grafana  
-- **Version Control:** Git, GitHub  
-- **OS:** Linux (Ubuntu, CentOS)
-
----
-
-## 🔗 Social Badges
-
-<p align="center">
-  <a href="https://linkedin.com/in/hariom-choudhary-868823322">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-
-  <a href="mailto:hariom.choudhary015@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
-
----
-
-## ⭐ Featured Section (Optional)
-Add your projects, training programs, YouTube videos, or achievements here later.
-
----
-
-<p align="center">
-Created With ❤️ By <b>Hariom Choudhary</b>
-</p>
+@keyframes blink {
+  50% { border-color: transparent }
+}
+</style>
