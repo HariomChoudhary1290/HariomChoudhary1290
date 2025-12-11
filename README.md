@@ -9,9 +9,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?size=32&color=00A8FF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Hariom+Choudhary+(Harry)" />
   </h1>
   
-  <!-- Super Mario on Right Side -->
-  <img src="https://i.gifer.com/5Et1.gif" alt="Super Mario" width="120" height="120" style="transform: translateY(-10px);" />
-</div>
+  <!-- Super Mario on Right Side with Animation -->
+  <img src="https://media.tenor.com/2uyENRyiVZ4AAAAj/mario-running.gif" alt="Super Mario" width="130" height="130" style="transform: translateY(-10px); animation: float 2s infinite ease-in-out;" />
+</d
 
 <p align="center">
 I believe Cloud & DevOps is for EVERYONE — yes, YOU TOO!  
